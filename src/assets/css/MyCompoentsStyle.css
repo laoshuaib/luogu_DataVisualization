@@ -1,0 +1,60 @@
+.el-button--my-btn {
+    background: #319795;
+    border-color: #319795;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+}
+
+.el-button--my-btn:hover {
+    background: #287A79;
+    border-color: #287A79;
+    color: white;
+}
+
+.el-button--my-btn:focus {
+    background: #287A79;
+    border-color: #287A79;
+    color: white;
+}
+
+.el-button--primary {
+    background: #319795;
+    border-color: #319795;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+}
+
+.el-button--primary:hover {
+    background: #287A79;
+    border-color: #287A79;
+    color: white;
+}
+
+.el-button--primary:focus {
+    background: #287A79;
+    border-color: #287A79;
+    color: white;
+}
+
+.el-button--default:hover {
+    border-color: #287A79;
+    color: black;
+}
+
+.el-button--default:focus {
+    border-color: #287A79;
+    color: black;
+}
+.el-button--text {
+    color: #319795;
+}
+
+.el-button--text:hover {
+    color: black;
+}
+
+.el-button--text:focus {
+    color: black;
+}
